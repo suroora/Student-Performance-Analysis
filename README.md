@@ -1,4 +1,4 @@
-# 📊 Assignment-5: Student Performance Analysis
+# 📊Student Performance Analysis
 
 ## 📌 Overview
 This repository contains a Jupyter Notebook (`Assignment-5.ipynb`) that performs **Exploratory Data Analysis (EDA)** on the **StudentsPerformance.csv** dataset.  
